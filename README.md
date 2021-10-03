@@ -23,7 +23,7 @@ Here the attributes <em>Accuracy</em> and <em>Robustness</em> are prepared from 
 Then additionally radar charts can be deployed to show attributes of the average performances. Values for <em>RAM/CPU usage, Size and Computation Time</em> are being 
 computed here using the tables created before. [Link](radar_chart_template.py)
 
-### Results: Tables, Plots and Radar Charts with corresponding scores
+### Results: Tables, Plots and Radar Charts with Corresponding Scores
 The purpose of this benchmark is to compare different models in the stream setting. Average performances are computed and used for visualizing the learning progress
 and creating radar charts for a better view for comparison. Scores are then presented by the radar charts because these charts are the final statement in the chosen setting.
 For given algorithms and datasets the benchmark will create a comparable scores using this environment.
