@@ -2,7 +2,7 @@
 ###### Version: 0.1
 The benchmark is divided in two phases. To begin the program needs to know which algorithms and datasets are going to be used.<br>
 Algorithms used: Four classifiers (<em>VFDT, HAT, KNN, KNNADWIN</em>).<br>
-Datasets used: Two real, two synthetic and two synthetic with concept drift (<em>Airlines, Electricity, AGRAWAL Generator, SEA Generator</em>).
+Datasets used: Two real, two synthetic and two synthetic with and without concept drift (<em>Airlines, Electricity, AGRAWAL Generator, SEA Generator</em>).
 
 ### First Phase: Data Acquisiton
 
