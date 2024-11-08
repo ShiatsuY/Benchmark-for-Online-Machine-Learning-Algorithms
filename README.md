@@ -18,7 +18,7 @@ Used to gain Variance on Accuracy values. [Link](metrics_template.py)
 ### Second Phase: Evaluation
 After acquiring information the program can deploy this information as plots and radar charts.
 As the plots display the average Accuracy values, the program fetches this data from the corresponding tables to compute and display them. 
-Here the attributes <em>Accuracy</em> and <em>Robustness</em> are prepared from the tables for this reason. [Link](plots_template.py)
+Here the attributes <em>Accuracy</em> and <em>Robustness</em> are prepared from the tables for this reason. [Link](plot_template.py)
 <br><br>
 Then additionally radar charts can be deployed to show attributes of the average performances. Values for <em>RAM/CPU usage, Size and Computation Time</em> are being 
 computed here using the tables created before. [Link](radar_template.py)
