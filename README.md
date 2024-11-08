@@ -13,7 +13,7 @@ Internally it is processed first choosing the datasets and then the models (and 
 <br>
 <br>
 After the tables were generated another single table will be created containing and compressing the perfomance information for this specific dataset. 
-Used to gain Variance on Accuracy values. [Link](metric.py)
+Used to gain Variance on Accuracy values. [Link](metric_template.py)
 
 ### Second Phase: Evaluation
 After acquiring information the program can deploy this information as plots and radar charts.
