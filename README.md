@@ -1,5 +1,5 @@
 # Benchmark for Online Machine Learning Algorithms
-###### Version: 0.1
+###### Version: 0.2
 The benchmark is divided in two phases. To begin the program needs to know which algorithms and datasets are going to be used.<br>
 Algorithms used: Four classifiers (<em>VFDT, HAT, KNN, KNNADWIN</em>).<br>
 Datasets used: Two real, two synthetic and two synthetic with and without concept drift (<em>Airlines, Electricity, AGRAWAL Generator, SEA Generator</em>).
@@ -13,7 +13,7 @@ Internally it is processed first choosing the datasets and then the models (and 
 <br>
 <br>
 After the tables were generated another single table will be created containing and compressing the perfomance information for this specific dataset. 
-Used to gain Variance on Accuracy values. [Link](metric_template.py)
+Used to gain Variance on Accuracy values. [Link](metrics_template.py)
 
 ### Second Phase: Evaluation
 After acquiring information the program can deploy this information as plots and radar charts.
